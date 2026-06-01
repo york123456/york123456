@@ -61,6 +61,10 @@
 > 地震分析<br>
 > https://york123456.github.io/earthquake_pipeline/
 
+> 選舉儀表板(2026)<br>
+> https://york123456.github.io/global_elections/
+
+
 
 
 
